@@ -1,8 +1,7 @@
 import { useState } from 'react'
 
-
 function App() {
-
+ // create post first //
   const posts = [
     { id: 1, title: "il primo titolo", content: "il contenuto del primo post"},
     { id: 2, title: "il secondo titolo", content: "il contenuto del secondo post"},
